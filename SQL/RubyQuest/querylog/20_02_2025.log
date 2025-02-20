@@ -1,0 +1,17 @@
+select * from hero; #13:17:35@rubyquest.db
+select * from steden; #13:18:42@rubyquest.db
+select * from person; #13:18:57@rubyquest.db
+select * from city; #13:19:24@rubyquest.db
+select * from quest; #13:21:41@rubyquest.db
+select name from person; #13:24:20@rubyquest.db
+select * from creature; #13:25:16@rubyquest.db
+SELECT name, attack_power FROM weapons; #13:27:11@rubyquest.db
+SELECT name, attack_power FROM weapon; #13:27:26@rubyquest.db
+SELECT name, attack FROM weapon; #13:27:43@rubyquest.db
+select name, attack from weapon; #13:29:12@rubyquest.db
+selcet name, max_health from person; #13:30:12@rubyquest.db
+select name, max_health from person; #13:30:32@rubyquest.db
+select name, max_health, creature from person; #13:32:56@rubyquest.db
+select name, max_health, from person from creature; #13:33:08@rubyquest.db
+select name, attack from weapon; #13:33:30@rubyquest.db
+SELECT name, health FROM creature; #13:34:27@rubyquest.db

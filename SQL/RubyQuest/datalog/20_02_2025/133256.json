@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select name, max_health, creature from person",
+    "error": "no such column: creature",
+    "resultcount": 0,
+    "result": []
+}

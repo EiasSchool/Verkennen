@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from steden",
+    "error": "no such table: steden",
+    "resultcount": 0,
+    "result": []
+}

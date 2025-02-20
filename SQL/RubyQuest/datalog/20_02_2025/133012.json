@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "selcet name, max_health from person",
+    "error": "near \"selcet\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

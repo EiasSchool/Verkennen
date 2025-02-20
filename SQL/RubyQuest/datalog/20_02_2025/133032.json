@@ -1,0 +1,824 @@
+{
+    "database": "rubyquest.db",
+    "query": "select name, max_health from person",
+    "error": null,
+    "resultcount": 204,
+    "result": [
+        {
+            "name": "Konan",
+            "max_health": 1235
+        },
+        {
+            "name": "Captain America",
+            "max_health": 3585
+        },
+        {
+            "name": "Mega Mindy",
+            "max_health": 500
+        },
+        {
+            "name": "Catwoman",
+            "max_health": 1760
+        },
+        {
+            "name": "Buzz Lightyear",
+            "max_health": 1530
+        },
+        {
+            "name": "Mario",
+            "max_health": 420
+        },
+        {
+            "name": "Shrek",
+            "max_health": 1360
+        },
+        {
+            "name": "Dante",
+            "max_health": 1370
+        },
+        {
+            "name": "Zelda",
+            "max_health": 2630
+        },
+        {
+            "name": "Super MeatBoy",
+            "max_health": 250
+        },
+        {
+            "name": "Bowser",
+            "max_health": 10000
+        },
+        {
+            "name": "Ser Cauthrien",
+            "max_health": 22000
+        },
+        {
+            "name": "Magician Faust",
+            "max_health": 28000
+        },
+        {
+            "name": "Beelzebub",
+            "max_health": 40000
+        },
+        {
+            "name": "The Demi-Fiend",
+            "max_health": 50000
+        },
+        {
+            "name": "Ryn'den",
+            "max_health": 250
+        },
+        {
+            "name": "Ghas",
+            "max_health": 250
+        },
+        {
+            "name": "Torhin",
+            "max_health": 250
+        },
+        {
+            "name": "Sliseror",
+            "max_health": 250
+        },
+        {
+            "name": "En'war",
+            "max_health": 250
+        },
+        {
+            "name": "Usttaia",
+            "max_health": 250
+        },
+        {
+            "name": "Polran",
+            "max_health": 250
+        },
+        {
+            "name": "Issrak",
+            "max_health": 250
+        },
+        {
+            "name": "Tredrakel",
+            "max_health": 250
+        },
+        {
+            "name": "Phoaughough",
+            "max_health": 250
+        },
+        {
+            "name": "Urnlor",
+            "max_health": 250
+        },
+        {
+            "name": "Ioma",
+            "max_health": 250
+        },
+        {
+            "name": "Er-rothon",
+            "max_health": 250
+        },
+        {
+            "name": "Samgha",
+            "max_health": 250
+        },
+        {
+            "name": "Oldoight",
+            "max_health": 250
+        },
+        {
+            "name": "Oughattonosy",
+            "max_health": 250
+        },
+        {
+            "name": "Radardtan",
+            "max_health": 250
+        },
+        {
+            "name": "Ir'ech",
+            "max_health": 250
+        },
+        {
+            "name": "Ashzos",
+            "max_health": 250
+        },
+        {
+            "name": "Nyswhon",
+            "max_health": 250
+        },
+        {
+            "name": "Perer",
+            "max_health": 250
+        },
+        {
+            "name": "Tonpryn",
+            "max_health": 250
+        },
+        {
+            "name": "Chrorad",
+            "max_health": 250
+        },
+        {
+            "name": "Deemtor",
+            "max_health": 250
+        },
+        {
+            "name": "Ingurn",
+            "max_health": 250
+        },
+        {
+            "name": "Luzslor",
+            "max_health": 250
+        },
+        {
+            "name": "Burkelem",
+            "max_health": 250
+        },
+        {
+            "name": "Chel",
+            "max_health": 250
+        },
+        {
+            "name": "Drainatin",
+            "max_health": 250
+        },
+        {
+            "name": "Mossay",
+            "max_health": 250
+        },
+        {
+            "name": "Nyetlor",
+            "max_health": 250
+        },
+        {
+            "name": "Therton",
+            "max_health": 250
+        },
+        {
+            "name": "Kotaj",
+            "max_health": 250
+        },
+        {
+            "name": "Nimani",
+            "max_health": 250
+        },
+        {
+            "name": "Isuske",
+            "max_health": 250
+        },
+        {
+            "name": "Ens",
+            "max_health": 250
+        },
+        {
+            "name": "Chaquean",
+            "max_health": 250
+        },
+        {
+            "name": "Vamlye",
+            "max_health": 250
+        },
+        {
+            "name": "Gum",
+            "max_health": 250
+        },
+        {
+            "name": "Ris'ran",
+            "max_health": 250
+        },
+        {
+            "name": "Peroust",
+            "max_health": 250
+        },
+        {
+            "name": "Enys",
+            "max_health": 250
+        },
+        {
+            "name": "Echuf",
+            "max_health": 250
+        },
+        {
+            "name": "Liyese",
+            "max_health": 250
+        },
+        {
+            "name": "Ach'ran",
+            "max_health": 250
+        },
+        {
+            "name": "Essold",
+            "max_health": 250
+        },
+        {
+            "name": "Uema",
+            "max_health": 250
+        },
+        {
+            "name": "Xilent",
+            "max_health": 250
+        },
+        {
+            "name": "Nallyeo",
+            "max_health": 250
+        },
+        {
+            "name": "Undald",
+            "max_health": 250
+        },
+        {
+            "name": "Athemis",
+            "max_health": 250
+        },
+        {
+            "name": "Awas",
+            "max_health": 250
+        },
+        {
+            "name": "Rodskel",
+            "max_health": 250
+        },
+        {
+            "name": "Rainadan",
+            "max_health": 250
+        },
+        {
+            "name": "Ightalever",
+            "max_health": 250
+        },
+        {
+            "name": "Shyz",
+            "max_health": 250
+        },
+        {
+            "name": "Entorm",
+            "max_health": 250
+        },
+        {
+            "name": "Ina'vor'oph",
+            "max_health": 250
+        },
+        {
+            "name": "Vernn",
+            "max_health": 250
+        },
+        {
+            "name": "Tedar",
+            "max_health": 250
+        },
+        {
+            "name": "Umedyn",
+            "max_health": 250
+        },
+        {
+            "name": "Nahuz",
+            "max_health": 250
+        },
+        {
+            "name": "Andril",
+            "max_health": 250
+        },
+        {
+            "name": "Kalskel",
+            "max_health": 250
+        },
+        {
+            "name": "Sulthin",
+            "max_health": 250
+        },
+        {
+            "name": "Tais",
+            "max_health": 250
+        },
+        {
+            "name": "Tidtan",
+            "max_health": 250
+        },
+        {
+            "name": "Uinea",
+            "max_health": 250
+        },
+        {
+            "name": "Schehin",
+            "max_health": 250
+        },
+        {
+            "name": "Roth'gha",
+            "max_health": 250
+        },
+        {
+            "name": "Hatck",
+            "max_health": 250
+        },
+        {
+            "name": "Errhat",
+            "max_health": 250
+        },
+        {
+            "name": "Onck",
+            "max_health": 250
+        },
+        {
+            "name": "Awoldo",
+            "max_health": 250
+        },
+        {
+            "name": "Yidini",
+            "max_health": 250
+        },
+        {
+            "name": "Lyerak",
+            "max_health": 250
+        },
+        {
+            "name": "Boek",
+            "max_health": 250
+        },
+        {
+            "name": "Ildsul",
+            "max_health": 250
+        },
+        {
+            "name": "Blen",
+            "max_health": 250
+        },
+        {
+            "name": "Emm",
+            "max_health": 250
+        },
+        {
+            "name": "Samran",
+            "max_health": 250
+        },
+        {
+            "name": "Sulightust",
+            "max_health": 250
+        },
+        {
+            "name": "Banor",
+            "max_health": 250
+        },
+        {
+            "name": "Ineust",
+            "max_health": 250
+        },
+        {
+            "name": "Ad'hat",
+            "max_health": 250
+        },
+        {
+            "name": "Tassul",
+            "max_health": 250
+        },
+        {
+            "name": "Eltasi",
+            "max_health": 250
+        },
+        {
+            "name": "Lorrodque",
+            "max_health": 250
+        },
+        {
+            "name": "Peus",
+            "max_health": 250
+        },
+        {
+            "name": "Seel",
+            "max_health": 250
+        },
+        {
+            "name": "Riltur",
+            "max_health": 250
+        },
+        {
+            "name": "Eldtur",
+            "max_health": 250
+        },
+        {
+            "name": "Enth'ati",
+            "max_health": 250
+        },
+        {
+            "name": "Cheiahon",
+            "max_health": 250
+        },
+        {
+            "name": "Hatackvesackos",
+            "max_health": 250
+        },
+        {
+            "name": "Shyvor",
+            "max_health": 250
+        },
+        {
+            "name": "Slias",
+            "max_health": 250
+        },
+        {
+            "name": "Hiy",
+            "max_health": 250
+        },
+        {
+            "name": "Ackurn",
+            "max_health": 250
+        },
+        {
+            "name": "Dared-ild",
+            "max_health": 250
+        },
+        {
+            "name": "Mukovo",
+            "max_health": 250
+        },
+        {
+            "name": "As'ingy",
+            "max_health": 250
+        },
+        {
+            "name": "L'mosler",
+            "max_health": 250
+        },
+        {
+            "name": "Kinunt",
+            "max_health": 250
+        },
+        {
+            "name": "Oira",
+            "max_health": 250
+        },
+        {
+            "name": "Cer'ing",
+            "max_health": 250
+        },
+        {
+            "name": "Ightyril",
+            "max_health": 250
+        },
+        {
+            "name": "Stusmor",
+            "max_health": 250
+        },
+        {
+            "name": "Aseyt",
+            "max_health": 250
+        },
+        {
+            "name": "Anyso",
+            "max_health": 250
+        },
+        {
+            "name": "Tic",
+            "max_health": 250
+        },
+        {
+            "name": "Belbel",
+            "max_health": 250
+        },
+        {
+            "name": "Rodkal",
+            "max_health": 250
+        },
+        {
+            "name": "Iatas",
+            "max_health": 250
+        },
+        {
+            "name": "Emhata",
+            "max_health": 250
+        },
+        {
+            "name": "Raks",
+            "max_health": 250
+        },
+        {
+            "name": "Eseise",
+            "max_health": 250
+        },
+        {
+            "name": "Raninasam",
+            "max_health": 250
+        },
+        {
+            "name": "It'lyea",
+            "max_health": 250
+        },
+        {
+            "name": "Ittinat",
+            "max_health": 250
+        },
+        {
+            "name": "Omath",
+            "max_health": 250
+        },
+        {
+            "name": "Enjunt",
+            "max_health": 250
+        },
+        {
+            "name": "Thitwar",
+            "max_health": 250
+        },
+        {
+            "name": "Sniqua",
+            "max_health": 250
+        },
+        {
+            "name": "Kellye",
+            "max_health": 250
+        },
+        {
+            "name": "Sayul",
+            "max_health": 250
+        },
+        {
+            "name": "Vorlersam",
+            "max_health": 250
+        },
+        {
+            "name": "Sam'alei",
+            "max_health": 250
+        },
+        {
+            "name": "Rak'om'ead",
+            "max_health": 250
+        },
+        {
+            "name": "Skel'quea",
+            "max_health": 250
+        },
+        {
+            "name": "Seysash",
+            "max_health": 250
+        },
+        {
+            "name": "Zodovo",
+            "max_health": 250
+        },
+        {
+            "name": "Unddarash",
+            "max_health": 250
+        },
+        {
+            "name": "Zhap",
+            "max_health": 250
+        },
+        {
+            "name": "Cerrad",
+            "max_health": 250
+        },
+        {
+            "name": "Hiemkim",
+            "max_health": 250
+        },
+        {
+            "name": "Nalelm",
+            "max_health": 250
+        },
+        {
+            "name": "Y'taiough",
+            "max_health": 250
+        },
+        {
+            "name": "Ealea",
+            "max_health": 250
+        },
+        {
+            "name": "Etk",
+            "max_health": 250
+        },
+        {
+            "name": "Cheal",
+            "max_health": 250
+        },
+        {
+            "name": "Estina",
+            "max_health": 250
+        },
+        {
+            "name": "Gyves",
+            "max_health": 250
+        },
+        {
+            "name": "Kelbur",
+            "max_health": 250
+        },
+        {
+            "name": "E'naliss",
+            "max_health": 250
+        },
+        {
+            "name": "Oeny",
+            "max_health": 250
+        },
+        {
+            "name": "Modraris",
+            "max_health": 250
+        },
+        {
+            "name": "Elmuk",
+            "max_health": 250
+        },
+        {
+            "name": "Myf",
+            "max_health": 250
+        },
+        {
+            "name": "Lobih",
+            "max_health": 250
+        },
+        {
+            "name": "Estuos",
+            "max_health": 250
+        },
+        {
+            "name": "Bexym",
+            "max_health": 250
+        },
+        {
+            "name": "Awpage",
+            "max_health": 250
+        },
+        {
+            "name": "Yineu",
+            "max_health": 250
+        },
+        {
+            "name": "Ler'rake",
+            "max_health": 250
+        },
+        {
+            "name": "Ton'any",
+            "max_health": 250
+        },
+        {
+            "name": "Rynz",
+            "max_health": 250
+        },
+        {
+            "name": "Detinine",
+            "max_health": 250
+        },
+        {
+            "name": "Beleia",
+            "max_health": 250
+        },
+        {
+            "name": "Mirotug",
+            "max_health": 250
+        },
+        {
+            "name": "Streyt",
+            "max_health": 250
+        },
+        {
+            "name": "Lomada",
+            "max_health": 250
+        },
+        {
+            "name": "Ineald",
+            "max_health": 250
+        },
+        {
+            "name": "Wor'pero",
+            "max_health": 250
+        },
+        {
+            "name": "Zeskel",
+            "max_health": 250
+        },
+        {
+            "name": "Naeg",
+            "max_health": 250
+        },
+        {
+            "name": "Irchee",
+            "max_health": 250
+        },
+        {
+            "name": "Whuik",
+            "max_health": 250
+        },
+        {
+            "name": "Rois",
+            "max_health": 250
+        },
+        {
+            "name": "Omeng",
+            "max_health": 250
+        },
+        {
+            "name": "Xosuny",
+            "max_health": 250
+        },
+        {
+            "name": "Polrd",
+            "max_health": 250
+        },
+        {
+            "name": "Bofege",
+            "max_health": 250
+        },
+        {
+            "name": "Rillcha",
+            "max_health": 250
+        },
+        {
+            "name": "Enad",
+            "max_health": 250
+        },
+        {
+            "name": "Ormny",
+            "max_health": 250
+        },
+        {
+            "name": "Athikim",
+            "max_health": 250
+        },
+        {
+            "name": "Aldion",
+            "max_health": 250
+        },
+        {
+            "name": "Perqueash",
+            "max_health": 250
+        },
+        {
+            "name": "Therengwar",
+            "max_health": 250
+        },
+        {
+            "name": "Athen",
+            "max_health": 250
+        },
+        {
+            "name": "Fytas",
+            "max_health": 250
+        },
+        {
+            "name": "Skel'um",
+            "max_health": 250
+        },
+        {
+            "name": "Ryimtan",
+            "max_health": 250
+        },
+        {
+            "name": "Ustur",
+            "max_health": 250
+        },
+        {
+            "name": "Ranexi",
+            "max_health": 250
+        },
+        {
+            "name": "Quigh",
+            "max_health": 250
+        },
+        {
+            "name": "Vesest",
+            "max_health": 250
+        },
+        {
+            "name": "Snalko",
+            "max_health": 250
+        }
+    ]
+}
