@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select group(*) from city where region == 1",
+    "error": "near \"group\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

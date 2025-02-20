@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from animal where loyality > 0",
+    "error": "no such column: loyality",
+    "resultcount": 0,
+    "result": []
+}

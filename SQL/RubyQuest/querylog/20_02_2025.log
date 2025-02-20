@@ -15,3 +15,17 @@ select name, max_health, creature from person; #13:32:56@rubyquest.db
 select name, max_health, from person from creature; #13:33:08@rubyquest.db
 select name, attack from weapon; #13:33:30@rubyquest.db
 SELECT name, health FROM creature; #13:34:27@rubyquest.db
+select id[7] from person; #13:46:37@rubyquest.db
+select * from person where id = 7; #13:48:12@rubyquest.db
+select * from quest where gold == 0; #13:49:44@rubyquest.db
+select group(*) from city where region == 1; #13:52:13@rubyquest.db
+select count(*) from city where region == 1; #13:52:49@rubyquest.db
+select count(*) from city where region = 1; #13:53:05@rubyquest.db
+select * from animal where type = 'Sheep'; #13:55:15@rubyquest.db
+select * from animal where loyality > 0; #13:57:44@rubyquest.db
+select * from animal where loyalty > 0; #13:58:02@rubyquest.db
+select * from animal where owner > 0; #13:58:21@rubyquest.db
+select * from animal where type != 'Sheep'; #14:01:42@rubyquest.db
+select type from animal where type != 'Sheep'; #14:02:08@rubyquest.db
+select count(*) from city where region = 1; #14:03:04@rubyquest.db
+select * from city where region = 1; #14:03:19@rubyquest.db
